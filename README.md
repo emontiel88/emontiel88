@@ -1,6 +1,4 @@
-💻 ¡Hola! Soy Edgar Montiel Ledesma, Desarollador de Sistemas de Grupo Metrobus. <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
-
-<a href="https://github.com/emontiel88"><img align='right' src='https://github.com/emontiel88/emontiel88/blob/main/MB.png' width='150"'></a></h2>
+💻 ¡Hola! Soy Edgar Montiel Ledesma, Desarollador de Sistemas de Grupo Metrobus. <a href="https://github.com/emontiel88"><img align='right' src='https://github.com/emontiel88/emontiel88/blob/main/MB.png' width='150"'></a></h2>
 
 - 🚇 Transporte:
 - 💪🏼 Meta: Crear soluciones eficientes y optimizadas.
