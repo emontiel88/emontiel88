@@ -15,7 +15,8 @@ Lenguajes y Herramientas:
 
 
 📫 Contacto
-<a href="mailto:emontiel@metrobus.cdmx.gob.mx"><img src="https://img.shields.io/badge/-Gmail-white?style=flat-square&logo=Gmailk&logoColor=Blue" alt="Outlook">
+
+<a href="mailto:emontiel@metrobus.cdmx.gob.mx"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmailk&logoColor=Blue" alt="Outlook">
 </a>
 
 -->
